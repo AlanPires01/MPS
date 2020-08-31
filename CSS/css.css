@@ -1,0 +1,19 @@
+body{
+  background-color:rgb(169, 236, 236);  
+}
+
+h1{
+color:rgb(34, 165, 67);   
+
+}
+
+p{
+    color:green;
+    text-align:justify;
+}
+
+
+div {
+  border: 1px salmon #CCC;
+  margin: 50px;
+}
